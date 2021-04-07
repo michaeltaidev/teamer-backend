@@ -1,0 +1,1 @@
+web: gunicorn teamer.wsgi --log-file -
